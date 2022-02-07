@@ -32,6 +32,7 @@ export default function NavBar() {
         nav a {
           font-weight: 600;
           font-size: 18px;
+          text-decoration: none;
         }
         .active {
           color: tomato;
